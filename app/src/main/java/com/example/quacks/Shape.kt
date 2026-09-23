@@ -1,5 +1,5 @@
 package com.example.quacks
 
 abstract class Shape(x: Int, y:Int) {
-    val color: String = "salmon"
+    val color: String = "purple"
 }
